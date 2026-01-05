@@ -1,0 +1,333 @@
+thumbs               | THUPLS THUPLZ
+wicked               | WEUBGD
+comes                | KOPLS KOPLZ KWOPLZ KWOPLS
+comes.               | KOPL/-PS KWOPL/-PS
+do not               | TKPHOT
+I have               | SREU
+thing.               | THEUFPBLGT
+where the            | W-RT
+where the            | W-RT
+healthy              | HOEUFLT
+rational             | RALG RALGS RARBL
+is a                 | SA*EU
+is really            | SHRAOERL
+making               | PHAEUG
+indicated            | KA*EUTD KAEULTD
+indicated            | KA*EUTD KAEULTD
+indicated            | KA*EUTD KAEULTD
+indicated            | KA*EUTD KAEULTD
+{on^}                | AUPB AOPB
+onco                 | AUPB/KO AUPB/KOE AUPB/KO* AOPB/KO*
+{onco^}              | O*PBG OPBG/SKWRO* O*PBG/SKWRO
+oncom                | O*PBG/PH*/SP-S OPBG/SKWRO*/PH*/SP-S O*PBG/SKWRO/PH*/SP-S
+oncomp               | AUPB/KO*PL AOPB/KO*PL AUPB/KOFRP AOPB/KOFRP AOPB/KOPL/-P AUPB/KOPL/-P AOPB/KOPL/*P AUPB/KOPL/*P
+oncomplicate         | AUPB/PHREUBGT AOPB/PHREUBGT AUPB/KPHREUBGT AOPB/KPHREUBGT AUPB/KPHRAEUBGT AOPB/KPHRAEUBGT AUPB/KOFRP/KAEUT AOPB/KOFRP/KAEUT AUPB/KPHREU/KAEUT AOPB/KPHREU/KAEUT AOPB/KPHAOEU/KAEUT AUPB/KHRAOEU/KAEUT AUPB/KPHAOEU/KAEUT AOPB/KHRAOEU/KAEUT AUPB/KPHRAOEU/KAEUT AOPB/KPHRAOEU/KAEUT AOPB/KOFRP/HREU/KAEUT AOPB/KOPL/PHREU/KAEUT AUPB/KOPL/PHREU/KAEUT AUPB/KOFRP/HREU/KAEUT
+oncomplicated        | AOPB/PHREUBGD AUPB/PHREUBGD AUPB/PHREUBGTD AOPB/PHREUBGTD AUPB/KPHREUBGTD AOPB/KPHREUBGTD AUPB/KPHRAEUBGTD AOPB/KPHRAEUBGTD AUPB/PHREUPLT/-D AUPB/KPHRUBGT/-D AOPB/KPHRUBGT/-D AUPB/KPHEUBGT/-D AOPB/PHREUPLT/-D AUPB/KPHREUBG/-D AOPB/KPHREUBG/-D AOPB/KPHEUBGT/-D AUPB/KPHREUBGS/-D AOPB/KPHREUBGS/-D AUPB/KPHREUBGT/-D AOPB/KPHREUBGT/-D AUPB/KPHREUBLT/-D AOPB/KPHREUBLT/-D AUPB/TPHREUBGT/-D AOPB/TPHREUBGT/-D
+complicated          | PHREUBGD PHREUBGTD KPHREUBGTD KPHRAEUBGTD
+there is             | THR-LGS
+is no                | STPHO
+no such              | TPHOUFP TPHOEFP
+decide               | TK-DZ STAOEUD STKAOEUD STKPWAOEUD
+decided              | STKAOEUTD TK-DZ/-D STKAEUD/-D STAOEUD/-D STKAOEUD/-D STKRAOEUD/-D STKPWAOEUD/-D
+as far               | STPA*R
+as far as            | STPARZ STPARS TPA*RS STPA*RZ STPARBZ STPA*RS STPA*RGS STKPA*RS STPA*FRS STPA*RTS
+I can                | AOEUBG
+I can                | AOEUBG
+do.                  | TKOFP TKOFPLT
+but it               | TPWUT
+if you               | TPU
+you do               | TKO*U
+at the               | TE
+there is             | THR-LGS
+striking             | STRAOEUG
+at the               | TE
+sometimes            | SAOEUPLS STAOEUPLS STAOEUPLZ STAOEUPLGS STPAOEUPLS
+you think            | UPBG
+think about          | THEUBT
+isn't the            | STPH-T
+actually             | TAOULT TWAEUL THAOULT THRAOUL THRAULT THRAOULT THRAOEULT TKHRAOULT TPHRAOULT THRAO*ULT TWHRAOULT
+wonder               | WOPBD
+is not               | S-PBLT STPHOT
+that the             | THAT THA*T THA*ET
+measured             | PH-RBD PH*ERBD PH*EFRBD
+it.                  | T-FP T-FPLT
+some people          | SPAOEPL
+clouds               | KHROUDZ
+clouds.              | KHROUD/-PS
+clouds.              | KHROUD/-PS
+disappear            | STKPAOER TEUS/PAOER TKEUS/PAOER TKEUS/PAOEUR TKEUS/SPAOER
+it's a               | TAEUS
+day.                 | TKAEUFP TKAEUFPLT
+it's a               | TAEUS
+day.                 | TKAEUFP TKAEUFPLT
+despair              | STKPAEUR
+disappear            | STKPAOER TEUS/PAOER TKEUS/PAOER TKEUS/PAOEUR TKEUS/SPAOER
+it's a               | TAEUS
+day.                 | TKAEUFP TKAEUFPLT
+actually             | TAOULT TWAEUL THAOULT THRAOUL THRAULT THRAOULT THRAOEULT TKHRAOULT TPHRAOULT THRAO*ULT TWHRAOULT
+managed              | PHAPBGD
+invest               | SREF TPH*FS
+credible             | KREUBL
+incredible           | TPHEBL TPHREUBL TPHAOEBL TPHRAOEBL EUPB/KREBL EUPB/KREUBL
+thermo               | THER/PHOE THERPL/STPO THERPL/KWRO THERPL/SKWRO
+{thermo^}            | THOEURPL
+thermos              | THER/PHOS THERPL/OS THER/PHOEZ THERPL/STPOZ THERPL/STPOS THERPL/SKWROZ THER/PHOE/-S THERPL/KWRO/-Z THERPL/KWRO/-S THERPL/SKWRO/-S THOEURPL/S*/SP-S
+thermos              | THER/PHOS THERPL/OS THER/PHOEZ THERPL/STPOZ THERPL/STPOS THERPL/SKWROZ THER/PHOE/-S THERPL/KWRO/-Z THERPL/KWRO/-S THERPL/SKWRO/-S THOEURPL/S*/SP-S
+keeps                | KAOEPS KAOEPZ
+how does             | TKHOUS
+your                 | KWRUR WROUR KWOUR KWROUR KWRAOUR TKWROUR KPWROUR KWROURB SKWROUR
+po                   | PO
+politic              | POL/TEUBG PHREUT/EUBG
+political            | PHREUL PHREU/K-L PHREUS/K-L PHREUT/K-L PHREUT/KAL POL/TEU/K-L PO/HREUT/KAL POE/HREUT/K-L POE/HREUT/KAL POL/TEUBG/A*L PHREUT/EUBG/A*L PHREUS/PHR*EUT/K-L PHROEUT/PHR*EUT/K-L
+you.                 | TPUPL
+to you               | TOU
+as a                 | SA*Z SA*SZ SA*DZ SA*FZ
+and I                | SKPEU
+I can                | AOEUBG
+and I can            | SKPEUBG
+back to              | TPWAOBG
+so fast              | SOFZ
+got a                | TKPWAOEUT
+an                   | -PB APB ARPB
+ane                  | -PB/STPE APB/STPE -PB/SKWRE -PB/SKWR*E APB/SKWRE ARPB/STPE APB/SKWR*E ARPB/SKWR*E
+aner                 | -PB/*ER APB/*ER ARPB/*ER A/APB/*ER
+anerve               | A/TPHEFB A/TPHEFRB A/TPH*EFRB A/TPHER/*F
+anerve               | A/TPHEFB A/TPHEFRB A/TPH*EFRB A/TPHER/*F
+worry                | WOER WO*ER
+worry about          | WOERB WO*ERB
+your                 | KWRUR WROUR KWOUR KWROUR KWRAOUR TKWROUR KPWROUR KWROURB SKWROUR
+po                   | PO
+politic              | POL/TEUBG PHREUT/EUBG
+political            | PHREUL PHREU/K-L PHREUS/K-L PHREUT/K-L PHREUT/KAL POL/TEU/K-L PO/HREUT/KAL POE/HREUT/K-L POE/HREUT/KAL POL/TEUBG/A*L PHREUT/EUBG/A*L PHREUS/PHR*EUT/K-L PHROEUT/PHR*EUT/K-L
+in a                 | TPHA*EU TPHRA*EU
+there are            | THR-R
+kinds                | KEUPBDZ KAOEUPDZ KAOEUPBZ KAOEUBDZ KAOEUPBDZ KWAOEUPBDZ KAO*EUPBDZ KAOEUPBSDZ KAOEUPBLDZ
+said                 | SED SAEUD
+Dumble               | TKUFRBL
+Dumbled              | TKUFRBLD
+Dumbledore           | TKUFRBL/TKOER
+,                    | -RB -RBG -RBS KW-B -BGS W-BG -RGS -RBGS KW-BG -FRBGS KWR-BG KWR-BGS
+smiling              | SHAOEULG SPHAOEULG
+takes                | TAEBGZ TAEUBGS TAEUBGZ TKAEUBGZ THAEUBGZ THAEUBGS
+it takes             | T/TPAEUBGS
+great deal           | TKPWRAEL
+bravery              | PWRAEFR
+up to                | TOUP
+enemy                | TPHAEPL
+{en^}                | EPB
+eneme                | EPB/EPL/*E/SP-S
+enemei               | EPB/AOE/PHE/STPEU EPB/AOE/PHE/SKWREU EPB/AOE/PHAOE/STPEU EPB/AOE/PHAO*E/STPEU EPB/AOE/PHAOE/SKWREU EPB/AOE/SPHAOE/STPEU EPB/AOE/PHAO*E/SKWREU EPB/AOE/SPHAOE/SKWREU
+enemi                | EPB/EPL/*EU/SP-S
+enemie               | TPHAEPL/STPE TPHAEPL/SKWRE TPHAEPL/SKWR*E EPB/PHEU/STPE EPB/PH*EU/STPE EPB/TPHEU/STPE EPB/PHEU/SKWRE EPB/TPHEU/SKWRE EPB/PHEU/SKWR*E EPB/PH*EU/SKWRE EPB/PHAOEU/STPE EPB/TPHEU/SKWR*E EPB/PHAOEU/SKWRE EPB/PH*EU/SKWR*E EPB/PHAOEU/SKWR*E
+enemies              | TPHAEPLZ TPHAEPLS TPHAEPL/ES EPB/PH*EUZ EPB/TPHEUZ EPB/TPHEUS TPHAEPL/S*E EPB/PHAOEUZ TPHAEPL/STPES TPHAEPL/STPEZ TPHAEPL/SKWREZ TPHAEPL/SKWR*EZ EPB/TPHEU/ES EPB/TPHEU/S*E EPB/PHAOEU/ES EPB/PHAOEU/S*E EPB/PHEU/STPEZ EPB/PH*EU/STPEZ EPB/PHEU/SKWREZ EPB/TPHEU/STPEZ EPB/PH*EU/SKWREZ EPB/PHEU/SKWR*EZ EPB/TPHEU/SKWREZ EPB/PH*EU/SKWR*EZ
+as much              | SPHUFP SPH*UFP
+up to                | TOUP
+friends              | TPREPBZ TPREPBS TPREPBDZ TPREPBSD TPWREPBDZ TPREPBLDZ
+friends.             | TPREPB/-PS TPREPBD/-PS
+that you've          | THAUF
+they wanted          | THEPTD
+to be                | TOB
+eval                 | SRA*EL
+evaluate             | *EFLT SRAELT AOE/SRALT SRAL/WAEUT SRAL/WAEUS SRA*EL/WA*EUT AOE/SRAL/WAEUT AOE/SRAL/WA*EUT AOE/SRAEL/WAEUT
+evaluated            | *EFLTD SRAELTD AOE/SRALTD SRA*EL/WA*EUTD SRAL/WAEUS/-D SRAL/WAEUT/-D AOE/SRAL/WA*EUTD AOE/SRAL/WAEUT/-D AOE/SRAEL/WAEUT/-D
+to                   | O TO TPO
+or not               | ORPBT
+whether or not       | WHR-PBT WHORPB WHR-PBLT PWHR-PBT WHRORPB WHRORPBT
+you are              | *UR R*U
+mental               | PHEPBL PH*EPBLT
+mentally             | PHEPBT/HREU PHEPBL/HREU PH*EPBT/A*EL PH*EPBLT/HREU
+. this               | TH-FPLT
+this is              | TH-S
+is the               | S-T
+do you               | TKOU
+you think            | UPBG
+that you've          | THAUF
+they wanted          | THEPTD
+to be                | TOB
+eval                 | SRA*EL
+evaluate             | *EFLT SRAELT AOE/SRALT SRAL/WAEUT SRAL/WAEUS SRA*EL/WA*EUT AOE/SRAL/WAEUT AOE/SRAL/WA*EUT AOE/SRAEL/WAEUT
+evaluatek            | *EFLT/*BG SRAELT/*BG AOE/SRALT/*BG SRAL/WAEUS/*BG SRAL/WAEUT/*BG AOE/SRAL/WAEUT/*BG AOE/SRAEL/WAEUT/*BG
+evaluated            | *EFLTD SRAELTD AOE/SRALTD SRA*EL/WA*EUTD SRAL/WAEUS/-D SRAL/WAEUT/-D AOE/SRAL/WA*EUTD AOE/SRAL/WAEUT/-D AOE/SRAEL/WAEUT/-D
+or not               | ORPBT
+whether or not       | WHR-PBT WHORPB WHR-PBLT PWHR-PBT WHRORPB WHRORPBT
+you are              | *UR R*U
+mental               | PHEPBL PH*EPBLT
+mentally             | PHEPBT/HREU PHEPBL/HREU PH*EPBT/A*EL PH*EPBLT/HREU
+. this               | TH-FPLT
+this is              | TH-S
+is the               | S-T
+do you               | TKOU
+you think            | UPBG
+that you've          | THAUF
+they want            | THEPT
+wanted               | WAPTD WABTD WAPBTD WABLTD WAPBLTD
+they wanted          | THEPTD
+to be                | TOB
+be                   | -B
+to be                | TOB
+evaluated            | *EFLTD SRAELTD
+evaluated...         | *EFLTD/HR-PS *EFLTD/SW-BS SRAELTD/HR-PS SRAELTD/SW-BS AOE/SRALTD/SW-BS AOE/SRALTD/HR-PS SRAL/WAEUS/-D/HR-PS SRAL/WAEUS/-D/SW-BS SRAL/WAEUT/-D/HR-PS SRAL/WAEUT/-D/SW-BS
+.                    | -P -FP -PL -PT -FPL TP-F T-PL P-PL P-FP PR-D -PLT -FRP TP-P -FPT TP-L TH-PL -FRLT TP-PL TP-LT -FPLT PR*RD TPH-PL TP-PLT TP-FPL
+..                   | PO*EUP/-P PO*EUP/-FP PO*EUP/-PL PO*EUP/-PT PO*EUP/-FPL PO*EUP/TP-F PO*EUP/T-PL PO*EUP/P-PL PO*EUP/P-FP PO*EUP/PR-D PO*EUP/-PLT PO*EUP/-FRP PO*EUP/TP-P PO*EUP/-FPT PO*EUP/TP-L PO*EUP/TH-PL PO*EUP/-FRLT PO*EUP/TP-PL PO*EUP/TP-LT PO*EUP/-FPLT PO*EUP/PR*RD PO*EUP/TPH-PL PO*EUP/TP-PLT PO*EUP/TP-FPL
+...                  | PO*EUP/PO*EUP/-P PO*EUP/PO*EUP/-PT PO*EUP/PO*EUP/-PL PO*EUP/PO*EUP/-FP PO*EUP/PO*EUP/TP-F PO*EUP/PO*EUP/-FPT PO*EUP/PO*EUP/T-PL PO*EUP/PO*EUP/-FPL PO*EUP/PO*EUP/P-FP PO*EUP/PO*EUP/TP-L PO*EUP/PO*EUP/TP-P PO*EUP/PO*EUP/-FRP PO*EUP/PO*EUP/PR-D PO*EUP/PO*EUP/-PLT PO*EUP/PO*EUP/-FPLT PO*EUP/PO*EUP/TH-PL PO*EUP/PO*EUP/TP-PL PO*EUP/PO*EUP/TP-FPL PO*EUP/PO*EUP/PR*RD PO*EUP/PO*EUP/TPH-PL PO*EUP/PO*EUP/TP-PLT
+evaluated...         | *EFLTD/HR-PS *EFLTD/SW-BS SRAELTD/SW-BS SRAELTD/HR-PS AOE/SRALTD/SW-BS AOE/SRALTD/HR-PS SRAL/WAEUT/-D/HR-PS SRAL/WAEUT/-D/SW-BS SRAL/WAEUS/-D/HR-PS SRAL/WAEUS/-D/SW-BS AOE/SRAL/WAEUT/-D/SW-BS AOE/SRAL/WAEUT/-D/HR-PS AOE/SRAEL/WAEUT/-D/HR-PS AOE/SRAEL/WAEUT/-D/SW-BS
+or not               | ORPBT
+whether or not       | WHR-PBT WHORPB WHR-PBLT PWHR-PBT WHRORPB WHRORPBT
+are                  | -R R AR/STPE AR/SKWRE AR/SKWR*E
+are                  | -R R AR/STPE AR/SKWRE AR/SKWR*E
+you are              | *UR R*U
+mental               | PHEPBL PH*EPBLT
+mentally             | PHEPBT/HREU PHEPBL/HREU PH*EPBT/A*EL PH*EPBLT/HREU
+. this               | TH-FPLT
+this is              | TH-S
+is the               | S-T
+do you               | TKOU
+you think            | UPBG
+that you've          | THAUF
+they wanted          | THEPTD
+to be                | TOB
+evaluated            | *EFLTD SRAELTD
+evaluated...         | *EFLTD/HR-PS *EFLTD/SW-BS SRAELTD/SW-BS SRAELTD/HR-PS AOE/SRALTD/SW-BS AOE/SRALTD/HR-PS SRAL/WAEUT/-D/HR-PS SRAL/WAEUT/-D/SW-BS SRAL/WAEUS/-D/HR-PS SRAL/WAEUS/-D/SW-BS AOE/SRAL/WAEUT/-D/SW-BS AOE/SRAL/WAEUT/-D/HR-PS AOE/SRAEL/WAEUT/-D/HR-PS AOE/SRAEL/WAEUT/-D/SW-BS
+or not               | ORPBT
+whether or not       | WHR-PBT WHORPB WHR-PBLT PWHR-PBT WHRORPB WHRORPBT
+you are              | *UR R*U
+. this               | TH-FPLT
+this is              | TH-S
+is the               | S-T
+do you               | TKOU
+you think            | UPBG
+the                  | -T -LT -TS -TD T-T
+ma                   | PHA
+majesty              | PHAPBLGS/TEU PHAPBLG/STEU PHA/SKWRES/TEU PHAPBLG/ES/TEU PHEPBLG/ES/STEU PH/SKWREFT/KWREU PHA/SKWREFT/KWREU PHAPBLG/EFT/KWREU
+where the            | W-RT
+and the              | SKP-T SKP-LT STKP-T SKPAT SKPET SKPW-T STKPH-T
+made of              | PHAEFD
+cotton               | KO*PBT KOT/OPB KOT/O*PB KOT/TO*PB
+cotton               | KO*PBT KOT/OPB KOT/O*PB KOT/TO*PB
+candy                | KAEPBD
+going to             | TPW*G KPWR*G TKPW*PG TKPW*BG TKPW*LG TKPW*GS TKPW*FPG TKPWHR*G
+to be                | TOB
+taking               | TAEUG
+some of              | SPHOF SOFPL
+of the               | -FT -FTS -FTD -FLT
+some of the          | SOFPLT
+{ex^}                | EBGS
+exo                  | *EBGS/STPO *EBGS/KWRO *EBGS/SKWRO
+{exo^}               | EBGS/OE EBGS/SKWRO
+exotic               | KPOT/EUBG KPOT/TEUBG EBGS/OT/EUBG EBG/SOT/EUBG EBGS/OT/TEUBG *EBGS/OT/EUBG EBGS/OE/T*EUBG EBGS/SKWRO/T*EUBG
+exotic               | KPOT/EUBG KPOT/TEUBG EBGS/OT/EUBG EBG/SOT/EUBG EBGS/OT/TEUBG *EBGS/OT/EUBG EBGS/OE/T*EUBG EBGS/SKWRO/T*EUBG
+known                | TPHOEPB TPHOEFPB TPHOE/*PB TPHO*E/*PB
+known                | TPHOEPB TPHOEFPB TPHOE/*PB TPHO*E/*PB
+places               | PHRAEUSZ PHRAEUFS PHRA*EUFS TPHRAEUSZ
+in the               | TPH-T
+enjoy                | TPHOEUPBLG
+enjoy                | TPHOEUPBLG
+in the               | TPH-T
+very                 | SRE SKRE
+frustrating          | TPRUFT/RAEUGT TPR*US/RAEUGT TPRUS/TRAEUGT TPR*US/TRAEUGT
+to me                | TPHE
+to me that           | TO/TPHAOEPL
+we have              | SWRAOE
+have not             | SR-PBLT
+managed              | PHAPBGD
+audience             | AUPBS
+for the              | TP-RT
+I don't              | KWROEU KWROPBT KPWROEU
+parti                | PART/STPEU PART/SKWREU PARBTD/STPEU PARBTD/SKWREU
+partic               | PART/EUBG PARBTD/EUBG
+participant          | PARPT PA*PBT PA*PBTD PARTS/PAPBT PAR/TEUS/PAPBT
+participants         | PARPTS PA*PBTS PA*PBTSZ PARPT/-Z PA*PBT/-Z PA*PBTD/-Z PA*PBTD/-S PARTS/PAPBTS PARTS/PAPBT/-S PARTS/PAPBT/-Z PAR/TEUS/PAPBT/-Z PAR/TEUS/PAPBT/-S
+I mean               | KWR-PL
+watching             | WAFPG WAFBG WAUFPG
+a lot                | HROELT
+they would           | THELD
+appeal               | AEP
+easily               | AOELS AO*ELS
+understood           | *URPBD *UFRPBD *URPBDZ *URPBTD
+{.^}                 | PO*EUP
+.astand              | PO*EUP/A/STAPD PO*EUP/A/STAPBD
+become               | PW-BG
+you can              | UBG
+the                  | -T -LT -TS -TD T-T
+time                 | TAOEUPL
+gives                | TKPWUFZ TKPWUFS TPWEUFZ TPWEUFS TKPEUFZ KPWEUFZ TKPEUFS KPWEUFS TKPWEUFS TKPWEUFZ
+spoils               | SPOEULS SPOEULZ
+on the               | OPBT O*PBT
+coming               | KO*G KOPLG KOPBLG KWOPLG KPHEUPBG
+hires                | HEURS HEURZ
+getting              | TKPEGT TKPWEGT
+another              | TPHOER TPHOERB
+Brian                | PWRAO*EUPB PWRAO*EUPBL PWRAOEU/A*PB
+a                    | AEU
+a                    | AEU A/S-P A/AEU A*/SP-S AEU/AEU
+senior               | SAOERPB SOEURPB SO*EURPB
+senior               | SAOERPB SOEURPB SO*EURPB SEPB/KWROR SAOEPB/KWROR SAOEPB/SKWROR
+{en^}                | EPB
+engine               | TPH-PBLG EPBG/-PB EPB/SKWREUPB EPBG/SKWREUPB
+engineer             | TKPWRAO*ER TPH-PBLG/*ER EPBG/TPHAOER TPH-PBLG/AOER TPH-G/TPHAOER EPBGS/TPHAOER EPBG/-PB/*ER EPB/SKWREUPB/*ER EPBG/SKWREUPB/*ER EPB/SKWREU/TPHAOER
+we are               | WER
+getting              | TKPEGT TKPWEGT
+getting a            | TKPWET/AEUG
+a                    | AEU
+getting a            | TKPWET/AEUG
+named                | TPHAEUPLD
+named                | TPHAEUPLD TPHAEUPL/-D
+Ryan                 | RAOEUPB RAOEU/A*PB
+unforu               | UPB/TPAUR/*U/SP-S UFPB/TPAUR/*U/SP-S KWRUPB/TPAUR/*U/SP-S
+unfort               | UPB/TPORT UFPB/TPORT KWRUPB/TPORT UPB/TPAUR/T*/SP-S UFPB/TPAUR/T*/SP-S KWRUPB/TPAUR/T*/SP-S
+unfortu              | UPB/TPORT/STPU UFPB/TPORT/STPU UPB/TPORT/SKWRU UFPB/TPORT/SKWRU KWRUPB/TPORT/STPU KWRUPB/TPORT/SKWRU
+unfortun             | UPB/TPAUR/TUPB UFPB/TPAUR/TUPB KWRUPB/TPAUR/TUPB
+unfortuna            | UPB/TPAUR/TUPB/KWRA UPB/TPAUR/TAOU/TPHA UPB/TPAUR/TUPB/STPA UFPB/TPAUR/TUPB/KWRA UPB/TPAUR/TUPB/SKWRA UFPB/TPAUR/TUPB/STPA UFPB/TPAUR/TAOU/TPHA UFPB/TPAUR/TUPB/SKWRA KWRUPB/TPAUR/TUPB/KWRA KWRUPB/TPAUR/TAOU/TPHA KWRUPB/TPAUR/TUPB/STPA KWRUPB/TPAUR/TUPB/SKWRA
+unfortunate          | TPHORPBT UPB/TP-RPBT UPB/TPORPBT UFPB/TP-RPBT UFPB/TPORPBT KWRUPB/TP-RPBT KWRUPB/TPORPBT UPB/TPORT/TPHAT UFPB/TPORT/TPHAT UPB/TPORPBLG/TPHAT KWRUPB/TPORT/TPHAT UPB/TPO*RPBLG/TPHAT UFPB/TPORPBLG/TPHAT UFPB/TPO*RPBLG/TPHAT KWRUPB/TPORPBLG/TPHAT KWRUPB/TPO*RPBLG/TPHAT UPB/TPOR/KHU/TPHAT UFPB/TPOR/KHU/TPHAT UPB/TPOR/KHAOU/TPHAT KWRUPB/TPOR/KHU/TPHAT UFPB/TPOR/KHAOU/TPHAT KWRUPB/TPOR/KHAOU/TPHAT
+unfortunately        | UFL TPHORPBLT TPHORPBLTD UPB/TP-RPBL UFPB/TP-RPBL UPB/TP-RPBLT UPB/TPORPBL UFPB/TP-RPBLT UPB/TPORPBLT UFPB/TPORPBLT TPHORPBT/HREU KWRUPB/TP-RPBL KWRUPB/TP-RPBLT KWRUPB/TPORPBLT TPHORPBT/H/HREU UPB/TP-RPBT/HREU UFPB/TP-RPBT/HREU UPB/TPORPBT/HREU UPB/TPOFRPBT/HREU UFPB/TPORPBT/HREU KWRUPB/TP-RPBT/HREU KWRUPB/TPORPBT/HREU UPB/TPORPBT/H/HREU UPB/TPOERT/TPHET/HREU
+suggesti             | SUG/STPEU SUG/SKWREU SUGT/STPEU SUGT/SKWREU SUG/SKWR*ES/STPEU SUG/SKWR*ES/SKWREU
+suggestin            | SUG/*EUPB SUGT/*EUPB SUG/SKWR*ES/*EUPB
+suggestio            | SUG/KWRO*E SUGT/KWRO*E SUG/SKWR*ES/KWRO*E
+suggestion           | SUGS S*UGS SUG/KWROPB SUG/SKWREGS SUGT/KWROPB SUG/SKWR*EGS SUG/SKWR*ES/KWROPB
+suggestions          | SUGSZ S*UGSZ SUGS/-S S*UGS/-S SUG/KWROPBZ SUG/KWROPBS SUG/SKWREGSZ SUGT/KWROPBZ SUGT/KWROPBS SUG/SKWR*EGSZ SUG/SKWREGS/-S SUG/SKWR*EGS/-S SUG/SKWR*ES/KWROPBZ SUG/SKWR*ES/KWROPBS
+suggestiona          | SUGS/KWRA SUGS/STPA SUGS/SKWRA S*UGS/KWRA S*UGS/STPA S*UGS/SKWRA SUG/SKWREGS/STPA SUG/SKWREGS/KWRA SUG/SKWR*EGS/KWRA SUG/SKWR*EGS/STPA SUG/SKWREGS/SKWRA SUG/SKWR*EGS/SKWRA
+suggestionator       | SUGS/AEUT/O*R S*UGS/AEUT/O*R SUG/SKWREGS/AEUT/O*R SUG/SKWR*EGS/AEUT/O*R
+directo              | TKRET/STPO TKRET/KWRO TKRET/SKWRO TKREBGT/STPO TKREBGT/KWRO STKREBGT/KWRO TKREBGT/SKWRO TKREUBGT/STPO TKREUBGT/KWRO STKREBGT/STPO TKREUBGT/SKWRO STKREBGT/SKWRO TK*EU/REBG/TOE TKEU/REBGT/STPO TKEU/REBGT/KWRO TKEU/REBGT/SKWRO
+directoy             | TK*EU/REBG/TOE/KWREU TK*EU/REBG/TOE/KWREUFPLT TK*EU/REBGT/KWRO/KWR*/SP-S TK*EU/REBGT/SKWRO/KWR*/SP-S
+director             | TKROR TKRAOR TKRET/O*R TKREBG/TOR TREBGT/TOR TKREBGT/O*R TKREBGS/O*R TKREBGT/TOR STKREBGT/O*R TKREUBGT/O*R TKEU/REBG/TOR TKEU/REBGT/O*R TKEU/REBGT/TOR TK*EU/REBG/TOR TK*EU/REBGT/TOR TK*EU/REBGT/O*R TK*EU/REBGT/KWRO/R*/SP-S TK*EU/REBGT/SKWRO/R*/SP-S
+directory            | TKROER TKROEUBGT TKROEURBGT TKROR/KWREU TKREBG/TREU TKREBGT/REU TKREBGT/TREU TKRAOR/KWREU TKREBG/TOEUR TKREBGT/TOEUR TKROR/KWREUFPLT TKRAOR/KWREUFPLT TKEU/REBGT/REU TKEU/REBG/TREU TKEU/REBG/TOEUR TKEU/REBGT/TREU TREBGT/TOR/KWREU TKEU/REBGT/TOEUR TKREBG/TOR/KWREU TKREBGT/O*R/KWREU TKREBGS/O*R/KWREU TREBGT/TOR/KWREUFPLT TKREBG/TOR/KWREUFPLT TKREBGT/O*R/KWREUFPLT
+directory            | TKROER TKROEUBGT TKROEURBGT TKROR/KWREU TKREBG/TREU TKREBGT/REU TKREBGT/TREU TKRAOR/KWREU TKREBG/TOEUR TKREBGT/TOEUR TKROR/KWREUFPLT TKRAOR/KWREUFPLT TKEU/REBGT/REU TKEU/REBG/TREU TKEU/REBG/TOEUR TKEU/REBGT/TREU TREBGT/TOR/KWREU TKEU/REBGT/TOEUR TKREBG/TOR/KWREU TKREBGT/O*R/KWREU TKREBGS/O*R/KWREU TREBGT/TOR/KWREUFPLT TKREBG/TOR/KWREUFPLT TKREBGT/O*R/KWREUFPLT
+simple               | S*EUPL SEUFRP SEUFRPL S*EUFPL
+webp                 | WEB/*P
+that                 | TA HA THA THAO THRA TWHA TPHA
+that has             | THAZ
+a                    | AEU
+element              | *EPLT HREPLT
+takes                | TAEBGZ TAEUBGS TAEUBGZ TKAEUBGZ THAEUBGZ THAEUBGS
+input                | TPH*PT
+file                 | TPAOEUL
+,                    | -RB -RBG -RBS KW-B -BGS W-BG -RGS -RBGS KW-BG -FRBGS KWR-BG KWR-BGS
+pies                 | PAOEUS PAOEUZ
+apies                | A/PAOEUS A/PAOEUZ
+applieses            | A/PHRAOEUSZ
+applies              | A/PHREUZ A/PHROEUZ AP/PHREUZ A/PHAOEUZ A/PHRAOEUS A/PHRAOEUZ
+a                    | AEU
+,                    | -RB -RBG -RBS KW-B -BGS W-BG -RGS -RBGS KW-BG -FRBGS KWR-BG KWR-BGS
+and                  | SP ABD -PBD SKP STK APD SKPH SKPW APBD -PBDZ STKP APBGD APBTD APBLD APBDZ APBLDZ
+pastes               | PAEFTS PA*EUSZ PAEUFTS
+result in            | TPHRULT
+in the               | TPH-T
+will be              | HR-B
+hosted               | HOFTD HOEFTD
+GitHub               | TKPWUB TKPWHUB TKPW*UB
+pages                | PAEUPBLGS PAEUPBLGZ
+,                    | -RB -RBG -RBS KW-B -BGS W-BG -RGS -RBGS KW-BG -FRBGS KWR-BG KWR-BGS
+so                   | SO SAO
+initial              | TPHURBL TPHEURBL
+co                   | KO*
+{co^}                | KAU
+commit               | KPHEUT KOPL/PHEUT
+suggest              | SUG SUGT SUG/SKWR*ES
+suggesti             | SUG/STPEU SUG/SKWREU SUGT/STPEU SUGT/SKWREU SUG/SKWR*ES/STPEU SUG/SKWR*ES/SKWREU
+suggestio            | SUG/KWRO*E SUGT/KWRO*E SUG/SKWR*ES/KWRO*E
+suggestion           | SUGS S*UGS SUG/KWROPB SUG/SKWREGS SUGT/KWROPB SUG/SKWR*EGS SUG/SKWR*ES/KWROPB
+suggestiona          | SUGS/KWRA SUGS/STPA SUGS/SKWRA S*UGS/KWRA S*UGS/STPA S*UGS/SKWRA SUG/SKWREGS/STPA SUG/SKWREGS/KWRA SUG/SKWR*EGS/KWRA SUG/SKWR*EGS/STPA SUG/SKWREGS/SKWRA SUG/SKWR*EGS/SKWRA
+suggestionator       | SUGS/AEUT/O*R S*UGS/AEUT/O*R SUG/SKWREGS/AEUT/O*R SUG/SKWR*EGS/AEUT/O*R
+suggestionators      | SUGS/AEUT/O*RZ S*UGS/AEUT/O*RZ SUGS/AEUT/O*R/-S S*UGS/AEUT/O*R/-S SUG/SKWREGS/AEUT/O*RZ SUG/SKWR*EGS/AEUT/O*RZ SUG/SKWREGS/AEUT/O*R/-S SUG/SKWR*EGS/AEUT/O*R/-S
+suggestions          | SUGSZ S*UGSZ
+suggestions          | SUGSZ S*UGSZ SUGS/-S S*UGS/-S SUG/KWROPBZ SUG/KWROPBS SUG/SKWREGSZ SUGT/KWROPBZ SUGT/KWROPBS SUG/SKWR*EGSZ

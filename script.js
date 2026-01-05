@@ -124,37 +124,32 @@ function isValidTextFile(file) {
     return validExtensions.some(ext => fileName.endsWith(ext));
 }
 
-// Main text processing function - customize this for your specific needs
+// Main text processing function - extracts words/phrases from stenographic suggestion files
 function processTextContent(content) {
-    // Example processing: Convert to suggestions format
-    // You can modify this function based on your requirements
-    
     const lines = content.split('\n').filter(line => line.trim() !== '');
+    const extractedWords = [];
     
-    // Example: Convert each line to a suggestion with numbering
-    let processed = "PROCESSED SUGGESTIONS:\n";
-    processed += "=" + "=".repeat(50) + "\n\n";
-    
-    lines.forEach((line, index) => {
-        // Clean up the line
-        const cleanedLine = line.trim();
-        if (cleanedLine) {
-            processed += `${index + 1}. ${cleanedLine}\n`;
+    lines.forEach(line => {
+        const trimmedLine = line.trim();
+        if (trimmedLine && trimmedLine.includes('|')) {
+            // Split by pipe separator and get the left side
+            const leftSide = trimmedLine.split('|')[0].trim();
+            
+            if (leftSide) {
+                // Remove { } and ^ symbols but keep periods, commas, and quotation marks
+                const cleanedWord = leftSide.replace(/[{}^]/g, '');
+                
+                if (cleanedWord.trim()) {
+                    extractedWords.push(cleanedWord.trim());
+                }
+            }
         }
     });
     
-    processed += "\n" + "=".repeat(52) + "\n";
-    processed += `Total suggestions: ${lines.length}\n`;
-    processed += `Processed on: ${new Date().toLocaleString()}\n`;
-    processed += `Original file: ${originalFileName}\n`;
+    // Join all extracted words with pipe characters
+    const result = extractedWords.join('|');
     
-    // Additional processing examples:
-    // - Convert to uppercase: return content.toUpperCase();
-    // - Add line numbers: return content.split('\n').map((line, i) => `${i+1}: ${line}`).join('\n');
-    // - Extract emails: return content.match(/\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b/g)?.join('\n') || 'No emails found';
-    // - Word count: return `Word count: ${content.split(/\s+/).length}\nCharacter count: ${content.length}`;
-    
-    return processed;
+    return result;
 }
 
 function displayResult() {
