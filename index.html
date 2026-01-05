@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suggestionator - Text File Processor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Suggestionator</h1>
+            <p>Drop a text file to process it and copy the result to your clipboard</p>
+        </header>
+        
+        <main>
+            <div id="dropzone" class="dropzone">
+                <div class="dropzone-content">
+                    <svg class="upload-icon" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                        <polyline points="7,10 12,15 17,10"/>
+                        <line x1="12" y1="15" x2="12" y2="3"/>
+                    </svg>
+                    <h3>Drop your text file here</h3>
+                    <p>or <button id="file-select" class="file-select-btn">browse files</button></p>
+                    <small>Supports .txt, .md, .csv and other text files</small>
+                </div>
+                <input type="file" id="file-input" accept=".txt,.md,.csv,.json,.log,.xml,.html,.css,.js" hidden>
+            </div>
+            
+            <div id="status" class="status hidden"></div>
+            
+            <div id="result-section" class="result-section hidden">
+                <h3>Processed Result:</h3>
+                <textarea id="result-text" readonly></textarea>
+                <div class="result-actions">
+                    <button id="copy-btn" class="copy-btn">Copy to Clipboard</button>
+                    <button id="download-btn" class="download-btn">Download Result</button>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Built for GitHub Pages • <a href="https://github.com/bpchan/suggestionator" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
