@@ -136,11 +136,11 @@ function processTextContent(content) {
             const leftSide = trimmedLine.split('|')[0].trim();
             
             if (leftSide) {
-                // Remove { } and ^ symbols but keep periods, commas, and quotation marks
-                const cleanedWord = leftSide.replace(/[{}^]/g, '');
+                // Remove all non-alphanumeric characters (keeping spaces between words)
+                const cleanedWord = leftSide.replace(/[^a-zA-Z0-9\s]/g, '').trim();
                 
-                if (cleanedWord.trim()) {
-                    extractedWords.push(cleanedWord.trim());
+                if (cleanedWord) {
+                    extractedWords.push(cleanedWord);
                 }
             }
         }
